@@ -1,0 +1,16 @@
+{
+    "name": "unit/test",
+    "description": "unit testing lab 1 using composer",
+    "autoload": {
+        "classmap": ["src"]
+    },
+    "authors": [
+        {
+            "name": "Saleh",
+            "email": "msaleh.abdelrahman@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
